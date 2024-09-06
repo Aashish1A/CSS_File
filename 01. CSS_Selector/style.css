@@ -1,0 +1,56 @@
+/* Class Selector */
+li {
+    font-weight: 700;
+    font-size: 32px;
+}
+.html {
+    color: #DC4F22;
+}
+.css {
+    color: #0178C1;
+}
+.javascript {
+    color: #F4DB1C;
+}
+.react {
+    color: #17BECC;
+}
+.tailwind {
+    color: #43AAD9;
+}
+
+/* ID Selector */
+#html {
+    font-size: 32px;
+}
+#css {
+    font-size: 32px;
+}
+#javascript {
+    font-size: 32px;
+}
+#react {
+    font-size: 32px;
+}
+#tailwind {
+    font-size: 32px;
+} 
+
+/* Attribut Selector */
+
+/* [class] {
+    background-color: green; 
+} */
+
+/* Decendent Selector */
+.web p {
+    background-color: aqua;
+}
+
+/* Psuedo Selector */
+h1:hover {
+    color: aquamarine;
+}
+.jac:hover {
+    color: orange;
+}

@@ -1,0 +1,39 @@
+body{
+    margin: 0;
+}
+/* p{
+    background-color: greenyellow;
+    width: 300px;
+    height: 100px;
+    padding: 25px;
+    box-sizing: border-box;
+    border: 10px solid green;
+    margin: 25px;
+} */
+
+.html{
+    display: inline-block;
+    background-color: aqua;
+    width: 80px;
+    height: 50px;
+    padding: 10px;
+    box-sizing: border-box;
+    border: 10px solid green;
+    margin: 25px;
+}
+
+.image{
+    width: 100px;
+}
+
+/* replaced inline and non replace inline  */
+/* span {
+    display: inline-block;
+    background-color: aqua;
+    width: 80px;
+    height: 50px;
+    padding: 10px;
+    box-sizing: border-box;
+    border: 10px solid green;
+    margin: 25px;
+}  */

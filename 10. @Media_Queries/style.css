@@ -1,0 +1,37 @@
+.square {
+    background-color: black;
+    height: 300px;
+    width: 300px;
+    border: 25px solid blue;
+    print-color-adjust: exact;
+    -webkit-print-color-adjust: exact;
+    
+}
+
+@media (max-height: 500px) {
+    .square {
+        border: 25px solid red;
+        background-color: aqua;
+    }
+}
+
+/* @media screen{
+    .square {
+        border: 25px solid red;
+        background-color: aqua;
+    }
+} */
+/*( orientation: portrait )*/
+/* @media (500 <= width <= 400px) {
+    .square {
+        border: 25px solid red;
+        background-color: aqua;
+    }
+} */
+
+/* @media (max-width: 700px) {
+    .square {
+        border: 25px solid red;
+        background-color: aqua;
+    }
+}   */

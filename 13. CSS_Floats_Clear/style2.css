@@ -1,0 +1,50 @@
+* {
+    box-sizing: border-box;
+}
+.container{
+    background-color: lightblue;
+}
+
+.box{
+    width: 120px;
+    height: 120px;
+    font-size: 4rem;
+    color: white;
+    padding: 1rem;
+    /* float: left; */
+    /* float: right; */
+}
+
+.box-1{
+    background-color: green;
+    /* float: left; */
+    /* position: absolute; */
+}
+.box-2{
+    background-color: red;
+}
+.box-3{
+    background-color: blue;
+}
+.box-4{
+    background-color: aqua;
+    /* clear: left; */
+}
+.box-5{
+    background-color: hotpink;
+}
+.box-6{
+    background-color: black;
+}
+.box-7{
+    background-color: orange;
+}
+.box-8{
+    background-color:fuchsia ;
+}
+.box-9{
+    background-color: rgb(109, 185, 109);
+}
+.box-10{
+    background-color: purple;
+}

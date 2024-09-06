@@ -1,0 +1,32 @@
+body {
+  margin: 0;
+  font-size: 2em ;
+}
+
+section {
+  background-color: aqua;
+  width: 30vw;
+  padding: 15vw;
+  margin: 10vw;
+  border: 1vw solid greenyellow;
+  font-size: 2rem;
+  height: 50vh;
+  width: 400px;
+  /* Height works only in px not in % */
+  height: 50%;
+  padding: 10%;
+  box-sizing: border-box;
+
+}
+
+
+
+.box {
+  background-color: chartreuse;
+  width: 40%;
+  /* border: 10px solid cornflowerblue; */
+  /*It seen Parent font-size and 1 em= 16px  */
+  /* font-size if we put 5% then it's fs doesn't decrease it's always start from 6px */
+  padding: 1em;
+  font-size: 1em;
+}

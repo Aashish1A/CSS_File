@@ -1,0 +1,24 @@
+.container{
+    background-color: aliceblue;
+    width: 50vw;
+    height: 40vh;
+}
+
+.box{
+    background-color: aquamarine;
+    width: 5vw;
+    height: 4vh;
+
+    transition: all 3s ease-in-out 1s;
+
+    /* transition-property: transform; */
+    /* transition-property: background-color transform;
+    transition-duration: 3s;
+    transition-timing-function: ease-in-out;
+    transition-delay: 1s; */
+}
+
+.translate{
+    transform: translateX(10vw) translateY(10vh);
+    background-color: red;
+}

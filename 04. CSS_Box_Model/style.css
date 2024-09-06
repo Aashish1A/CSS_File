@@ -1,0 +1,39 @@
+/* Universal selector */
+*{
+    box-sizing: border-box;
+}
+/* .one{
+    background-color: aqua;
+    /* max-width: 300px;
+    height: 200px;
+    padding: 10px; */
+    /* word-break: break-all; */
+.one{
+    background-color: aquamarine;
+    color: blue;
+    width: 300px;
+    padding: 25px;
+    margin: 40px;
+    border: 4px solid teal;
+    border-radius: 10px;
+}
+p{
+    margin: 0;
+}
+.two{
+    background-color: burlywood;
+    width:300px;
+    height: 300px;
+    /* padding: 25px; */
+    border: 8px solid hotpink;
+    margin: 40px;
+    border-radius: 50%;
+    overflow: hidden;
+    outline: 8px solid hotpink;
+}
+img{
+    width: 100%;
+    /* margin-top: -100px;
+    margin-left: 0px; */
+}
+

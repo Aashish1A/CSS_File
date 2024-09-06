@@ -1,0 +1,14 @@
+p {
+    color: aqua;
+    font-size: 32px;
+    font-weight: 700;
+    font-family: sans-serif;
+    text-align: center;
+    font-style: italic;
+    background-color: oldlace;
+    /* text-decoration: overline wavy; */
+}
+
+a {
+    text-decoration: none;
+}

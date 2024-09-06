@@ -1,0 +1,20 @@
+.hi h1{
+    color: green;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.ji{
+    font: bold;
+    font-family: sans-serif;
+    display: flex;
+    justify-content: center;
+    /* align-items: center; */
+}
+  
+img{
+    float: left;
+    /* float: right; */
+    margin-right: 1rem;
+}
